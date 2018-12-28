@@ -8,6 +8,6 @@ export default () => (
       display: flex;
       justify-content: center;
     `}>
-    <Header title="Gatsby Blog" />
+    <Header title="About" />
   </div>
 );
